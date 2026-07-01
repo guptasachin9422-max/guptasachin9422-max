@@ -1,4 +1,4 @@
-````markdown
+markdown
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sachin%20Gupta&fontSize=50&fontAlignY=35&desc=Java%20Developer%20•%20Spring%20Boot%20•%20PostgreSQL%20•%20Desktop%20Applications&descAlignY=58"/>
 </p>
@@ -152,4 +152,4 @@ real-world business problems.
 ### Thanks for visiting my profile! ⭐
 
 </div>
-````
+
