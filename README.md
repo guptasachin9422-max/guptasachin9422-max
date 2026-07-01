@@ -1,155 +1,364 @@
-markdown
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sachin%20Gupta&fontSize=50&fontAlignY=35&desc=Java%20Developer%20•%20Spring%20Boot%20•%20PostgreSQL%20•%20Desktop%20Applications&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sachin%20Gupta&fontSize=55&fontAlignY=38&desc=Java%20Developer%20|%20Spring%20Boot%20|%20PostgreSQL%20|%20Desktop%20Applications&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Desktop+Applications.;Developing+with+Java+%26+Spring+Boot.;Learning+New+Technologies.;Turning+Ideas+Into+Software." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Hello+👋+I'm+Sachin+Gupta;Java+Backend+Developer;Spring+Boot+Developer;Desktop+Application+Developer;Learning+AI+%26+JavaFX;Always+Learning+New+Technologies"/>
+
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+---
 
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
+# 👋 Hello Developers!
 
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
+I'm **Sachin Gupta**, a passionate **Java Backend Developer** and **Computer Engineering Student** from India.
 
-  <a href="https://github.com/YOUR-GITHUB">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-</p>
+I enjoy building software that solves **real-world business problems** using Java, Spring Boot, PostgreSQL, and Desktop Technologies.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+Currently, I'm focused on improving my backend development skills and creating professional desktop applications.
 
 ---
 
 # 💫 About Me
 
-```text
-🎓 Diploma Student in Computer Engineering
+```java
+public class SachinGupta {
 
-💻 Passionate about Java Development,
-Desktop Applications and Backend Development.
+    String role = "Java Backend Developer";
 
-⚡ Currently learning Java, Spring Boot,
-PostgreSQL, Hibernate and JavaFX.
+    String education = "Diploma in Computer Engineering";
 
-🧠 Interested in AI Applications,
-Database Design, System Development
-and Software Engineering.
+    String language = "Java";
 
-🚀 My Goal:
+    String database = "PostgreSQL";
 
-Build professional software that solves
-real-world business problems.
+    String framework = "Spring Boot";
+
+    String desktop = "JavaFX";
+
+    String currentFocus =
+        "Building Real World Desktop Applications";
+
+    String goal =
+        "Become a Professional Software Engineer";
+}
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Current Focus
 
-## 💻 Languages
+✔ Java Development
+
+✔ Spring Boot
+
+✔ PostgreSQL
+
+✔ Hibernate
+
+✔ REST APIs
+
+✔ JavaFX
+
+✔ Desktop Applications
+
+✔ AI Based Projects
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
 </p>
 
 ---
 
-## 🖥️ Backend
+## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring"/>
-</p>
 
-> Currently exploring Spring Boot, REST APIs and Hibernate.
+<img src="https://skillicons.dev/icons?i=spring"/>
 
----
+<img src="https://skillicons.dev/icons?i=maven"/>
 
-## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ---
 
-## 🗄️ Database
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
 </p>
 
 ---
 
-## 🛠️ Tools
+## Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
 </p>
 
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+🟢 Spring Security
+
+🟢 JWT Authentication
+
+🟢 JavaFX
+
+🟢 Hibernate
+
+🟢 REST API Development
+
+🟢 Docker
+
+🟢 Microservices
+
+🟢 AI Integration
+
+---
+
+# 🏆 Skills
+
+| Technology | Level |
+|------------|--------|
+| Java | ⭐⭐⭐⭐⭐ |
+| Spring Boot | ⭐⭐⭐⭐☆ |
+| PostgreSQL | ⭐⭐⭐⭐☆ |
+| REST APIs | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+| JavaFX | ⭐⭐⭐☆☆ |
+| HTML/CSS | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐☆☆ |
+
+---
+
+# 📈 Coding Journey
+
+```text
+2024  ███████░░░░░ Started Java
+
+2025  ███████████░ Spring Boot
+
+2026  █████████████ PostgreSQL
+
+2026  █████████████ JavaFX
+
+Next  █████████████ Docker
+
+Next  █████████████ Microservices
+```
+
+---
+
+# ⚡ Fun Facts
+
+☕ I love solving programming problems.
+
+💻 I enjoy building desktop applications.
+
+🚀 Learning something new every day.
+
+🎯 Goal is to become a Software Engineer.
+
+🔥 I believe consistency beats talent.
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+markdown
 ---
 
 # 🚀 Featured Projects
 
-### 🏋️ Gym Management System
-- Java Spring Boot
-- PostgreSQL
-- REST APIs
-- CRUD Operations
-- Member, Trainer & Payment Management
+## 🏋️ Gym Management System
 
-### 🏥 Hospital Management System
-- Spring Boot
-- PostgreSQL
-- AI-based Modules
-- Appointment Management
-- Smart Queue System
+> **Tech Stack:** Java • Spring Boot • PostgreSQL • JavaFX • REST API
 
-### 🎬 Movie Management System
-- Spring Boot
-- PostgreSQL
-- REST API
-- Complete CRUD Operations
+### Features
+- 👤 User Registration & Login
+- 🔐 Authentication
+- 🏋️ Member Management
+- 👨‍🏫 Trainer Management
+- 💳 Payment Management
+- 📊 Dashboard
+- 📄 CRUD Operations
+- 🗄 PostgreSQL Database
+
+---
+
+## 🏥 Hospital Management System
+
+> **Tech Stack:** Java • Spring Boot • PostgreSQL
+
+### Features
+- 🤖 AI Symptom Checker
+- 📅 Appointment Booking
+- 🛏 Live Bed Tracking
+- 🚑 Emergency Priority System
+- 🎟 Smart Queue Management
+- 💊 Medicine Inventory
+- 👨‍⚕ Doctor Management
+
+---
+
+## 🎬 Movie Management System
+
+> **Tech Stack:** Java • Spring Boot • PostgreSQL
+
+### Features
+- ➕ Add Movies
+- ✏ Update Movies
+- ❌ Delete Movies
+- 🔍 Search Movies
+- ⭐ Rating System
+- 📊 REST API
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB&theme=algolia&no-frame=true&row=1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-# ⭐ Turning Ideas Into Real Software
+<p align="center">
 
-> *"Great software isn't just written—it solves real-world problems."*
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-### Thanks for visiting my profile! ⭐
+</p>
 
-</div>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** Snake animation tab chalegi jab GitHub Actions configure karoge.
+
+---
+
+# 💻 Development Environment
+
+| Category | Tools |
+|----------|-------|
+| Language | Java, C, C++, Python |
+| Backend | Spring Boot |
+| Database | PostgreSQL |
+| IDE | IntelliJ IDEA, VS Code |
+| Version Control | Git & GitHub |
+| Build Tool | Maven |
+| API Testing | Postman |
+
+---
+
+# 📌 Developer Stats
+
+- 💻 Java Developer
+- 🚀 Spring Boot Enthusiast
+- 🗄 PostgreSQL Learner
+- 🖥 Desktop Application Developer
+- 📚 Continuous Learner
+- 🤝 Open to Collaboration
+
+---
 
