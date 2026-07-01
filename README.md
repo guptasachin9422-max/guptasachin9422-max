@@ -213,8 +213,8 @@ Next  █████████████ Microservices
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/_xx_sachin_18_/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://instagram.com/_xx_sachin_18_">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://github.com/guptasachin9422-max">
