@@ -1,6 +1,3 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sachin%20Gupta&fontSize=55&fontAlignY=38&desc=Java%20Developer%20|%20Spring%20Boot%20|%20PostgreSQL%20|%20Desktop%20Applications&descAlignY=60"/>
@@ -208,16 +205,16 @@ Next  █████████████ Microservices
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sachin-gupta-a008633a3/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sachingupta2003s@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_INSTAGRAM">
-<img src="https://www.instagram.com/_xx_sachin_18_"/>
+<a href="https://www.instagram.com/_xx_sachin_18_/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://github.com/guptasachin9422-max">
