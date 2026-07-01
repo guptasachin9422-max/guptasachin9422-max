@@ -1,24 +1,155 @@
-<h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
-<h3 align="center">A passionate BackEnd developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasachin9422-max&label=Profile%20views&color=0e75b6&style=flat" alt="guptasachin9422-max" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptasachin9422-max" alt="guptasachin9422-max" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **sachingupta2003s@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_xx_sachin_18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xx_sachin_18_" height="30" width="40" /></a>
+````markdown
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sachin%20Gupta&fontSize=50&fontAlignY=35&desc=Java%20Developer%20•%20Spring%20Boot%20•%20PostgreSQL%20•%20Desktop%20Applications&descAlignY=58"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Desktop+Applications.;Developing+with+Java+%26+Spring+Boot.;Learning+New+Technologies.;Turning+Ideas+Into+Software." />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptasachin9422-max&show_icons=true&locale=en&layout=compact" alt="guptasachin9422-max" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptasachin9422-max&show_icons=true&locale=en" alt="guptasachin9422-max" /></p>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasachin9422-max&" alt="guptasachin9422-max" /></p>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+
+  <a href="https://github.com/YOUR-GITHUB">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 💫 About Me
+
+```text
+🎓 Diploma Student in Computer Engineering
+
+💻 Passionate about Java Development,
+Desktop Applications and Backend Development.
+
+⚡ Currently learning Java, Spring Boot,
+PostgreSQL, Hibernate and JavaFX.
+
+🧠 Interested in AI Applications,
+Database Design, System Development
+and Software Engineering.
+
+🚀 My Goal:
+
+Build professional software that solves
+real-world business problems.
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js"/>
+</p>
+
+---
+
+## 🖥️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+> Currently exploring Spring Boot, REST APIs and Hibernate.
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏋️ Gym Management System
+- Java Spring Boot
+- PostgreSQL
+- REST APIs
+- CRUD Operations
+- Member, Trainer & Payment Management
+
+### 🏥 Hospital Management System
+- Spring Boot
+- PostgreSQL
+- AI-based Modules
+- Appointment Management
+- Smart Queue System
+
+### 🎬 Movie Management System
+- Spring Boot
+- PostgreSQL
+- REST API
+- Complete CRUD Operations
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB&theme=algolia&no-frame=true&row=1"/>
+</p>
+
+---
+
+<div align="center">
+
+# ⭐ Turning Ideas Into Real Software
+
+> *"Great software isn't just written—it solves real-world problems."*
+
+### Thanks for visiting my profile! ⭐
+
+</div>
+````
