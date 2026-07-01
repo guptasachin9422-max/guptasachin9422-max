@@ -71,13 +71,9 @@ https://drive.google.com/file/d/1Yw5o6sJWPI3TEQFlSdED2PxMwNOrRid0/view?usp=drive
 
 ## 🐍 Contribution Snake
 
-> Enable GitHub Actions with Platane/snk to generate this animation.
-
-md
 <p align="center">
-<img src="https://raw.githubusercontent.com/guptasachin9422-max/guptasachin9422-max/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/guptasachin9422-max/guptasachin9422-max/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
 ## 📬 Connect
 
 - GitHub: https://github.com/guptasachin9422-max
