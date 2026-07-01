@@ -26,7 +26,7 @@ Currently, I'm focused on improving my backend development skills and creating p
 
 # 💫 About Me
 
-```java
+java
 public class SachinGupta {
 
     String role = "Java Backend Developer";
@@ -47,9 +47,9 @@ public class SachinGupta {
     String goal =
         "Become a Professional Software Engineer";
 }
-```
 
----
+
+
 
 # 🚀 Current Focus
 
@@ -182,7 +182,7 @@ public class SachinGupta {
 
 # 📈 Coding Journey
 
-```text
+text
 2024  ███████░░░░░ Started Java
 
 2025  ███████████░ Spring Boot
@@ -194,7 +194,6 @@ public class SachinGupta {
 Next  █████████████ Docker
 
 Next  █████████████ Microservices
-```
 
 ---
 
@@ -361,4 +360,176 @@ markdown
 - 🤝 Open to Collaboration
 
 ---
+markdown
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java Core & Advanced Java
+- ✅ Build 10+ Real-World Java Projects
+- ✅ Master Spring Boot & Hibernate
+- ✅ Learn Spring Security & JWT
+- ✅ Master PostgreSQL Database Design
+- ✅ Learn Docker & Containerization
+- ✅ Learn Microservices Architecture
+- ✅ Contribute to Open Source Projects
+- ✅ Complete 500+ DSA Problems
+- ✅ Land a Software Developer Internship
+- ✅ Become a Full Stack Java Developer
+
+---
+
+# 🌱 Currently Learning
+
+- ☕ JavaFX Desktop Applications
+- 🌐 Spring Boot REST APIs
+- 🔐 Spring Security
+- 🎫 JWT Authentication
+- 🗄️ PostgreSQL Optimization
+- 🐳 Docker
+- ☁️ Deployment (Railway / Render)
+- 🤖 AI Integration with Java
+
+---
+
+# 🏅 Certifications
+
+| Certificate | Status |
+|-------------|--------|
+| Java Programming | 🟢 In Progress |
+| SQL & PostgreSQL | 🟢 In Progress |
+| Git & GitHub | 🟢 In Progress |
+| Spring Boot | 🟢 In Progress |
+| Python Programming | ✅ Completed |
+
+---
+
+# 📈 Coding Philosophy
+
+> **"Every great application starts with a simple idea and consistent effort."**
+
+---
+
+# 📂 Project Roadmap
+
+text
+✔ Student Management System
+
+✔ Movie Management System
+
+✔ Gym Management System
+
+✔ Hospital Management System
+
+⬜ Inventory Management System
+
+⬜ Library Management System
+
+⬜ Employee Management System
+
+⬜ ERP System
+
+⬜ CRM System
+
+
+---
+
+# 💡 Fun Facts
+
+- ☕ Coffee + Java = ❤️
+- 💻 I enjoy solving real-world problems through code.
+- 🚀 I love learning new technologies.
+- 🛠️ Building Desktop Applications is my favorite.
+- 📚 I believe consistency is more important than motivation.
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+
+</a>
+
+</p>
+
+---
+
+# ❤️ Support
+
+If you like my work, consider:
+
+⭐ Starring my repositories
+
+🍴 Forking my projects
+
+💬 Sharing your feedback
+
+🤝 Collaborating on exciting projects
+
+---
+
+# 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"Code is not just about writing programs. It's about solving problems and creating value."**
+
+</p>
+
+---
+
+<p align="center">
+
+## ⭐ Thanks for Visiting My Profile!
+
+### If you like my projects, don't forget to ⭐ star them.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</p>
+
+
 
