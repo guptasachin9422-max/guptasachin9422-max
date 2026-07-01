@@ -39,8 +39,6 @@ public class SachinGupta {
 
     String framework = "Spring Boot";
 
-    String desktop = "JavaFX";
-
     String currentFocus =
         "Building Real World Desktop Applications";
 
@@ -62,8 +60,6 @@ public class SachinGupta {
 ✔ Hibernate
 
 ✔ REST APIs
-
-✔ JavaFX
 
 ✔ Desktop Applications
 
@@ -174,10 +170,7 @@ public class SachinGupta {
 | PostgreSQL | ⭐⭐⭐⭐☆ |
 | REST APIs | ⭐⭐⭐⭐☆ |
 | Git & GitHub | ⭐⭐⭐⭐☆ |
-| JavaFX | ⭐⭐⭐☆☆ |
-| HTML/CSS | ⭐⭐⭐⭐☆ |
-| JavaScript | ⭐⭐⭐☆☆ |
-
+| JavaFX | ⭐☆☆☆☆ |
 ---
 
 # 📈 Coding Journey
@@ -224,10 +217,10 @@ Next  █████████████ Microservices
 </a>
 
 <a href="YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://www.instagram.com/_xx_sachin_18_"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/guptasachin9422-max">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
