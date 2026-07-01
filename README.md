@@ -77,7 +77,6 @@ md
 <p align="center">
 <img src="https://raw.githubusercontent.com/guptasachin9422-max/guptasachin9422-max/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
 
 ## 📬 Connect
 
