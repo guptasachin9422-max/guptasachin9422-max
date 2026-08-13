@@ -57,17 +57,17 @@ https://drive.google.com/file/d/1Yw5o6sJWPI3TEQFlSdED2PxMwNOrRid0/view?usp=drive
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasachin9422-max&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=guptasachin9422-max&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptasachin9422-max&theme=tokyo-night"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=guptasachin9422-max&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
+</p> -->
 
 ## 🐍 Contribution Snake
 
